@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.ipynb_checkpoints/
+*.png   # remove if you want to track the generated png; otherwise keep
